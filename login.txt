@@ -1,0 +1,4 @@
+[username]
+[password]
+Program only reads the first two lines of this file to login to Darwin, replace the the whole
+line respective fields to run the program. 
