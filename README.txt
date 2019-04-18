@@ -9,3 +9,22 @@ https://data.austintexas.gov/Building-and-Development/Issued-Construction-Permit
 *Note size is about 1.12 GB so it isn't included in this repo.
 -Might include reduced dataset after cleaning is done. 
 
+
+FILES TO ADD IN ZIP:
+
+README.txt // Text file describing contents of project and files contained within
+
+Group 9 Data Mining.ipynb // Jupyter Notebook of the project with data cleaned just enough to
+                          // run on Darwin
+
+Issued_Construction_Permits.csv // Complete Dataset used in this project
+
+login.txt // Used to store creditials when running the program
+
+FILES THAT ARE GENERATED:
+
+trainSet.csv   // File generated to train the model on Darwin
+
+testSet.csv    // File generated to test the model on Darwin
+
+prediction.csv // (Optional) File downloaded from darwin with predictions made
