@@ -14,8 +14,9 @@ FILES TO ADD IN ZIP:
 
 README.txt // Text file describing contents of project and files contained within
 
-Group 9 Data Mining.ipynb // Jupyter Notebook of the project with data cleaned just enough to
-                          // run on Darwin
+Group 9 Data Mining.ipynb // Jupyter Notebook of the project with data cleaned just enough to run on Darwin
+
+Random Sampling Random Forest.ipynb // Random sampling approach to dataset instead of partitioning blocks from dataset
 
 Issued_Construction_Permits.csv // Complete Dataset used in this project
 
